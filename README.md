@@ -5,6 +5,7 @@ It demonstrates modern mobile development practices such as API integration, loc
 
 ---
 
+
 ## Features
 
 - News Module  
